@@ -1,3 +1,7 @@
+```bash
+git clone https://github.com/ProExecutor/TPU-could.git
+```
+
 It seems like you want to run a TensorFlow script on a TPU using a command line. Here's how you can do it:
 
 1. First, make sure that your Python script (`main.py`) is in the correct directory where you want to run the command.
