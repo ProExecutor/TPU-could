@@ -17,7 +17,7 @@ cd TPU-could
 4. Once you're in the correct directory, you can run your script with the following command:
 
 ```bash
-python main.py
+bash main.py
 ```
 
 This command tells Python to execute the script `main.py`. Make sure that your Python environment has all the necessary packages installed (in this case, `tensorflow` and `transformers`).
